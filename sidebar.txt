@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yan:home|Door43 (yan)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yan|d43-yan repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yan/archive/master.zip|d43-yan.zip]]
+
+**Recent Changes**
+{{changes>ns = yan}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yan|Ethnologue data]]
+
